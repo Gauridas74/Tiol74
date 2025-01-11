@@ -1,2 +1,2 @@
-# Tiol74
+# Gauridas74
 Config files for my GitHub profile.
